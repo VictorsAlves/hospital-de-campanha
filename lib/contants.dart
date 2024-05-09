@@ -1,0 +1,1 @@
+const kDescricao = 'instalações temporárias para tratar pacientes em situações de crise, ';
